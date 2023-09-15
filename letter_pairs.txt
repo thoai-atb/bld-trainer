@@ -3,7 +3,7 @@ ad: an ad
 ae: daemon
 af: a flag (white) 🏳️
 ag: Agifish company sign
-ah: Ace of heart
+ah: Ace of heart 💖
 ai: Chat GPT logo
 ak: ak47
 al: alien 👽
