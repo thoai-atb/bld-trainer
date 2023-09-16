@@ -1,142 +1,142 @@
-ab: abs
-ad: an ad
+ab: abs | ABC | 🧮
+ad: popup ads
 ae: daemon
 af: a flag (white) 🏳️
 ag: Agifish company sign
 ah: Ace of heart 💖
-ai: Chat GPT logo
+ai: ChatGPT's logo
 ak: ak47
 al: alien 👽
 an: an ant 🐜
-ao: ao | shirtf
+ao: ao | shirt 👚
 ap: appocalypse
 aq: aquarium | aquafina
-ar: pirate's hook
+ar: pirate's hook 🪝
 as: ánh sáng 🔦
-at: ATM card
-au: gold
+at: ATM card 💳
+au: gold 🥇
 av: avatar movie character
 aw: paw 🐾
-ax: axe
+ax: axe 🪓
 
 ba: barcode | baba 🐢
 bd: bed 🛏️
 be: bee 🐝 | black eagle (RA2)
 bf: battle fortress (RA2)
-bg: a plastic bag
-bh: bình nước - bo'oh'o'wa'er 🍼
-bi: a marble
-bk: bikini 👙 | baked cake 🍰 | Bách Khoa's logo
-bl: a ball
+bg: bag 👜
+bh: bo'oh'o'wa'er 🍼
+bi: marble
+bk: bikini 👙 | Bách Khoa
+bl: ball ⚽
 bn: banana 🍌 | recycle bin
 bo: bowling ball | a bowl
 bp: bubbles 🫧
 bq: BBQ (grill)
-br: beer
-bs: a bass guitar
+br: beer 🍺
+bs: a bass guitar 🎸
 bt: bít tết | Bitcoin
 bu: bus 🚌
-bv: beaver
+bv: beaver 🦫
 bw: bow | bmw bicycle in GTA SA
-bx: box
+bx: box 📦
 
-da: dart
+da: dart 🎯
 db: database
-de: desk | 💻 DELL
+de: desk 🪑
 df: defuse card
-dg: dog
+dg: dog 🐕
 dh: dish
 di: dice 🎲
 dk: deck (of cards)
-dl: dollar
+dl: dollar 💵
 dn: deer
-do: door🚪 | domino
+do: donut 🍩 | door
 dp: dip sauce | dipper (Gravity Falls)
-dq: dracula
-dr: doctor
-ds: disney
-dt: demolition truck (RA2)
+dq: dracula 🦇
+dr: doctor 🩺
+ds: disney 🐭
+dt: dirt 💩
 du: durian
 dv: dvd 📀
 dw: down arrow (red)
 dx: duct tape
 
-eb: elbow
+eb: elbow 💪
 ed: ted-talk stage
 ef: effect (visual particles GTA)
 eg: egg 🥚
 eh: joker in Plants vs Zombies
 ei: Einstein
-ek: a pig
-el: eel
-en: én
+ek: a pig 🐖
+el: eel 🐍
+en: chim én
 eo: eo - love handle
 ep: blender with juice
 eq: Earth 🌍
 es: escalator
-et: Enter button
+et: Enter button 🔲
 eu: EU flag (different from the white flag AF)
 ev: envelope ✉️
-ew: eyes
+ew: eyes 👁️
 ex: explosion 💥 | exo planet
 
 fa: fat - cooking oil
-fb: Facebook logo or interface
-fe: coffee
-fg: fog
+fb: Facebook
+fe: coffee ☕
+fg: fog 🌫️
 fh: fish 🐟
-fk: 'The art of not giving a f*ck' book
+fk: fork 🍴
 fl: fly 🪰
 fn: fan (object)
-fo: fork
+fo: folder 📂
 fp: flappy bird
-fq: finger
+fq: finger ☝️
 fr: forest 🌲
 fs: fist 🤜
-ft: foot
+ft: foot 🦶
 fu: Fool Us cup
 fv: favor card (exploding kitten)
 fw: sun flower 🌻 | firework
-fx: fox
+fx: fox 🦊
 
 ga: chicken 🐔
 gb: grab bike 🪖
-gd: god
+gd: god 😶‍🌫️
 ge: gem ♦️
 gf: gift 🎁
 gh: ghast (Minecraft)
 gi: GI (RA2)
-gk: gecko
+gk: gecko 🦎
 gl: glue | gel 🫗
-gn: gun 🔫
+gn: gun
 go: Go (game)
 gp: grape 🍇
-gq: guard
+gq: guard 💂‍♂️
 gr: garage
-gs: gas tank
+gs: gas tank ⛽
 gt: gattling tank (RA2)
-gv: graveyard
-gw: grass
+gv: graveyard 🪦
+gw: grass 🌾
 gx: spikes
 
 ha: hat 🧢
 hb: pencil (HB)
-hd: honda
+hd: honda 🏍️
 he: helmet | head
 hf: headphone | half
 hg: hedgehog 🦔
 hi: hiking | hill
-hk: hockey
+hk: hockey 🏒
 hl: crowbar (half-life)
 hn: honey jar
-ho: a hole
+ho: a hole ⛳
 hp: heart in games ♥️
 hq: headquarters (IGI)
 hr: hare 🐇
-hs: history book
+hs: history book 📕
 ht: baseball bat (to hit)
-hu: hut (RA2)
-hv: beehive | 😇 heaven
+hu: hut (RA2) 🛖
+hv: heaven 😇
 hw: mohawk hairstyle (GTA SA)
 
 ia: idea💡
@@ -145,92 +145,92 @@ ie: ice 🧊
 ig: igloo
 ih: đinh - nails (used with hammer)
 in: internet 🌐
-io: iot - salt shaker
+io: iot - salt shaker 🧂
 ip: 10.139.160.9
 iq: brain 🧠
 ir: iron (used to iron clothes)
 is: isabella (Phineas & Ferb)
-it: crazy clown | item frame
+it: crazy clown 🤡
 iu: IU - international university
 iv: ivory
 iw: kiwi 🥝
 ix: trident 🔱
 
 ka: kart 🏎️
-kb: kebab
+kb: kebab 🍢
 kd: Kaito Kid
 ke: ruler 📏
 kf: knife 🔪
-kg: weight
+kg: weight ⚖️
 kh: pineapple 🍍
 ki: kite 🪁 | kim 💉
 kl: kool air (gum)
-kn: knight
+kn: knight 🐴
 ko: knot 🪢
 kp: red hairclip (kẹp tóc)
-kq: king
-kr: kirov
+kq: king ⛪
+kr: kirov (RA2)
 ks: kiss 💋 | hotel
-kt: medic kit
+kt: medic kit ❤️‍🩹
 ku: kungfu (nunkachu) | kubernetes | kumquat
-kw: cowboy
+kw: cowboy 🤠
 kx: key 🔑
 
-la: llama
-lb: weight lifting | lube
-ld: ladder
+la: llama 🦙
+lb: weight lifting 🏋️‍♂️
+ld: ladder 🪜
 le: lemon 🍋
-lf: leaf
-lg: Lego
+lf: leaf 🍃
+lg: lego 🧩
 lh: leech
-li: lichess
+li: lichess♟️
 lk: luck 🍀
 ln: lantern 🔥
 lo: lock 🔓
 lp: lipstick 💄 | tulip 🌷
-lq: liquid
+lq: liquid 💦
 lr: fishing rod 🎣 - lure (Minecraft)
-ls: laser
-lt: lottery
-lv: lever (Minecraft)
+ls: laser 🚨
+lt: lottery 🎫
+lv: lever (Minecraft) 🎚️
 lw: law - the gavel 🔨
 lx: cơm tấm Long Xuyên
 
 na: trái na
-nd: noodle
-ne: neon
-nf: Nerf gun
+nd: noodle 🍜
+ne: neon (white)
+nf: Nerf gun 🔫
 ng: chicken nuggets
 nh: house (nhà) 🏠
-ni: ninja
+ni: ninja 🥷
 nk: nuclear missle (RA2)
-nl: finger nail
-no: nỏ
-np: napkin
+nl: finger nail 💅
+no: no sign 🚫
+np: napkin 🧷
 nr: nuclear reactor (RA2)
 nt: note 📒
 nu: nutriboost
-nv: navy
-nw: newspaper
+nv: navy ⚓
+nw: newspaper 🗞️
 nx: netflix 
 
 oa: a baby (cries)
-ob: obsidian
+ob: obsidian ⬛
 od: old man 🩼
-oe: oreo
+oe: oreo 🟣
 of: officer 👮‍♂️
 og: Oggy
-oh: organic compounds (HO-C=O-H)
-oi: trái ổi
+oh: organic compounds (HO-C=O-H) 🔴
+oi: trái ổi 🍏
 ok: 👌 | 200 OK
 ol: oil 🛢️
 on: onion 🧅
 op: octopus 🐙
-or: orange
+or: cocacola (original taste 🍷)
 os: oscillation 🕰️
 ot: ô tô 🚗
-ou: outlet
-ov: oval
+ou: outlet 🔌
+ov: oval ⭕
 ox: oxygen tank | ox 🐂
 
 pa: parachute 🪂
@@ -238,16 +238,16 @@ pb: lead
 pd: lily pad
 pe: peashooter 🟢 | pocket (edition) (Minecraft)
 pf: puffer fish 🐡
-pg: pong | pogo stick (happy)
+pg: pogo stick
 ph: photo 📷
 pi: pie 🥧 | pi (3b1b)
 pk: pikachu
 pl: plum
 pn: pin 📌 | pan 🍳
-po: potato
+po: potato 🥔
 pq: penguin 🐧
-pr: printer
-ps: toothpaste
+pr: printer 🖨️
+ps: toothpaste 🦷
 pt: bottom less pit (Gravity Falls)
 pu: puma - a panther
 pw: gun powder (Minecraft)
@@ -260,13 +260,13 @@ qf: Quarry (TMNT)
 qg: khăn quàng
 qh: quỳnh hương 💐
 qi: cookies 🍪
-qk: duck (quack) | earth quake
+qk: duck (quack) 🐤
 ql: quill 🪶
 qp: 🧹quét phòng
 qr: QR code
-qs: question mark
+qs: question mark ❓
 qt: QT robot 🤖
-qu: quần - pants
+qu: quần - pants 👖
 qv: quay vòng (merry go round)
 qw: qwerty - keyboard
 qx: Qxuno (UNO) 🎴
@@ -281,20 +281,20 @@ rk: rook
 rl: rail
 rn: rain 🌧️
 ro: rock
-rp: rope
+rp: rope 🪢
 rq: raquet 🎾
 rs: rose 🌹
 rt: robot tank (RA2)
 ru: rubik | rusty rod
 rv: raven
 rw: row your boat 🚣
-rx: t-rex
+rx: t-rex 🦖
 
 sa: sahara - cactus 🌵
 sb: submarine
 sd: silenced gun
 se: seashell 🐚
-sf: surf
+sf: surf 🏄
 sg: shotgun
 sh: SH bike
 si: sim | sing 🎤
@@ -315,16 +315,16 @@ tb: bathtub 🛁
 td: teddy 🧸
 te: tea 🫖
 tf: tofu
-tg: tiger
+tg: tiger 🐅
 th: TH true milk 🥛
-ti: tin
+ti: tin 🥫
 tk: tiktok 🎶
 tl: a tail
 tn: tnt 🧨
-to: tomato 🍅 | torus donut
+to: tomato 🍅 | towel
 tp: teleport (Portal)
 tq: Chinese letters
-tr: cây tre
+tr: bamboo tree 🎍
 ts: tissue
 tu: tủ
 tv: TV 📺
@@ -333,14 +333,14 @@ tx: taxi 🚕 | text
 ua: yogurt
 ub: uber (black taxi)
 ud: under dog
-ue: UE device
+ue: UE device 📱
 uf: ufo 🛸
 uh: fur (as discussed with Nash)
 ui: user interface (search bar)
 uk: United Kingdom's flag
-un: unicorn 🦄 | urn ⚱️
-uo: duo
-up: 7up
+un: unicorn 🦄
+uo: duolingo
+up:  7up 🍸 | UP 🏠🎈
 uq: dùi cui
 ur: uranium ☢️
 us: among us
@@ -349,9 +349,9 @@ uv: ultraviolet light
 uw: UwU face
 ux: someone wears luxuries | tuxedo
 
-va: valve
+va: valve ⚙️
 vb: butterfly 🦋
-vd: video
+vd: video 📽️
 ve: con ve sầu
 vf: vape
 vg: Las Vegas welcome sign
@@ -359,10 +359,10 @@ vh: vỉa hè
 vi: Vihart
 vl: village (Minecraft)
 vn: vines (Minecraft)
-vo: volcano
+vo: volcano 🌋
 vq: queen 👑
 vr: VR headset
-vs: vase
+vs: vase ⚱️
 vt: tua vít 🪛
 vw: vow - incense (nhang)
 vx: vex (Minecraft)
@@ -371,7 +371,7 @@ wa: magic wand 🪄
 wb: web 🕸️
 wd: wood 🪵
 we: well 🧱
-wf: woof
+wf: wolf 🐺
 wg: wage 💵 | wing
 wh: wheel 🛞
 wi: window 🪟
@@ -394,12 +394,12 @@ xf: spray water bottle for watering plants 💦
 xg: xung điện VLTL ⚡
 xi: xì hơi (balloon) 🎈
 xk: xì ke 💉
-xl: shirt (size XL)
+xl: salon 🛋️
 xn: xuân - cây mai
 xo: tic-tac-toe ❌
 xp: experience (Minecraft)
 xq: curly hair - (xà quằn)
-xr: xor - logic gate
+xr: xor - comparator (Minecraft)
 xt: piston
 xu: đồng xu 🪙
 xv: savana
