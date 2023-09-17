@@ -22,7 +22,7 @@ ax: axe 🪓
 ba: barcode | baba 🐢
 bd: bed 🛏️
 be: bee 🐝 | black eagle (RA2)
-bf: battle fortress (RA2)
+bf: buffalo 🐃 | battle fortress (RA2)
 bg: bag 👜
 bh: bo'oh'o'wa'er 🍼
 bi: marble
@@ -37,7 +37,7 @@ bs: a bass guitar 🎸
 bt: bít tết | Bitcoin
 bu: bus 🚌
 bv: beaver 🦫
-bw: bow | bmw bicycle in GTA SA
+bw: bow 🏹
 bx: box 📦
 
 da: dart 🎯
@@ -77,7 +77,7 @@ es: escalator
 et: Enter button 🔲
 eu: EU flag (different from the white flag AF)
 ev: envelope ✉️
-ew: eyes 👁️
+ew: stew 🍲
 ex: explosion 💥 | exo planet
 
 fa: fat - cooking oil
@@ -99,7 +99,7 @@ fv: favor card (exploding kitten)
 fw: sun flower 🌻 | firework
 fx: fox 🦊
 
-ga: chicken 🐔
+ga: chicken 🐓
 gb: grab bike 🪖
 gd: god 😶‍🌫️
 ge: gem ♦️
@@ -113,17 +113,17 @@ go: Go (game)
 gp: grape 🍇
 gq: guard 💂‍♂️
 gr: garage
-gs: gas tank ⛽
+gs: gas tank
 gt: gattling tank (RA2)
 gv: graveyard 🪦
-gw: grass 🌾
+gw: grass
 gx: spikes
 
 ha: hat 🧢
-hb: pencil (HB)
-hd: honda 🏍️
-he: helmet | head
-hf: headphone | half
+hb: pencil (HB) ✏️
+hd: honda
+he: helmet | head 🤕
+hf: headphone 🎧
 hg: hedgehog 🦔
 hi: hiking | hill
 hk: hockey 🏒
@@ -136,7 +136,7 @@ hr: hare 🐇
 hs: history book 📕
 ht: baseball bat (to hit)
 hu: hut (RA2) 🛖
-hv: heaven 😇
+hv: beehive | heaven 😇
 hw: mohawk hairstyle (GTA SA)
 
 ia: idea💡
@@ -144,6 +144,8 @@ ib: inbox (notification)
 ie: ice 🧊
 ig: igloo
 ih: đinh - nails (used with hammer)
+ik: ink ✒️
+il: illumati 👁️
 in: internet 🌐
 io: iot - salt shaker 🧂
 ip: 10.139.160.9
@@ -159,19 +161,19 @@ ix: trident 🔱
 ka: kart 🏎️
 kb: kebab 🍢
 kd: Kaito Kid
-ke: ruler 📏
+ke: thước kẻ 📏
 kf: knife 🔪
 kg: weight ⚖️
 kh: pineapple 🍍
-ki: kite 🪁 | kim 💉
+ki: kite 🪁
 kl: kool air (gum)
 kn: knight 🐴
-ko: knot 🪢
+ko: knot 🎀
 kp: red hairclip (kẹp tóc)
 kq: king ⛪
 kr: kirov (RA2)
 ks: kiss 💋 | hotel
-kt: medic kit ❤️‍🩹
+kt: medic kit 🏥
 ku: kungfu (nunkachu) | kubernetes | kumquat
 kw: cowboy 🤠
 kx: key 🔑
@@ -203,11 +205,12 @@ nf: Nerf gun 🔫
 ng: chicken nuggets
 nh: house (nhà) 🏠
 ni: ninja 🥷
-nk: nuclear missle (RA2)
+nk: neko 🐈
 nl: finger nail 💅
 no: no sign 🚫
 np: napkin 🧷
 nr: nuclear reactor (RA2)
+ns: nest 🪹
 nt: note 📒
 nu: nutriboost
 nv: navy ⚓
@@ -226,11 +229,12 @@ ok: 👌 | 200 OK
 ol: oil 🛢️
 on: onion 🧅
 op: octopus 🐙
+oq: nut 🥜
 or: cocacola (original taste 🍷)
 os: oscillation 🕰️
 ot: ô tô 🚗
 ou: outlet 🔌
-ov: oval ⭕
+ov: oval - american football
 ox: oxygen tank | ox 🐂
 
 pa: parachute 🪂
@@ -240,7 +244,7 @@ pe: peashooter 🟢 | pocket (edition) (Minecraft)
 pf: puffer fish 🐡
 pg: pogo stick
 ph: photo 📷
-pi: pie 🥧 | pi (3b1b)
+pi: pie 🥧
 pk: pikachu
 pl: plum
 pn: pin 📌 | pan 🍳
@@ -250,7 +254,7 @@ pr: printer 🖨️
 ps: toothpaste 🦷
 pt: bottom less pit (Gravity Falls)
 pu: puma - a panther
-pw: gun powder (Minecraft)
+pw: pillow | powder
 px: pixel
 
 qa: ông quan
@@ -262,6 +266,7 @@ qh: quỳnh hương 💐
 qi: cookies 🍪
 qk: duck (quack) 🐤
 ql: quill 🪶
+qo: quote | quora
 qp: 🧹quét phòng
 qr: QR code
 qs: question mark ❓
@@ -275,7 +280,7 @@ rb: robbery
 rd: radio 📻
 rf: roof
 rg: ring 💍
-rh: Rhino | Ralph (TMNT or Wreck it Ralph)
+rh: Rhino 🦏
 ri: rice 🍚
 rk: rook
 rl: rail
@@ -296,19 +301,19 @@ sd: silenced gun
 se: seashell 🐚
 sf: surf 🏄
 sg: shotgun
-sh: SH bike
-si: sim | sing 🎤
-sk: sink
+sh: SH (white) bike
+si: sing 🎤
+sk: sky 🌥️
 sl: SEAL (RA2)
 sn: birthday cake 🎂
-so: sock
-sp: spoon 🥄 | soap | soup 🍲
+so: sock 🧦
+sp: spoon 🥄
 sq: squash
 sr: syrup 🍧
-st: start line 🏁 | steam
-su: shoe 👟 | sumo
-sv: saving 💰
-sw: saw 🪚 | sword
+st: start line 🏁
+su: shoe 👟
+sv: savory 👅
+sw: saw 🪚
 
 ta: tar.gz 📚 | tag 🏷️
 tb: bathtub 🛁
@@ -332,10 +337,10 @@ tx: taxi 🚕 | text
 
 ua: yogurt
 ub: uber (black taxi)
-ud: under dog
+ud: udon (white noodles) | under dog
 ue: UE device 📱
 uf: ufo 🛸
-uh: fur (as discussed with Nash)
+uh: Hitler (as discussed with Nash)
 ui: user interface (search bar)
 uk: United Kingdom's flag
 un: unicorn 🦄
@@ -364,16 +369,17 @@ vq: queen 👑
 vr: VR headset
 vs: vase ⚱️
 vt: tua vít 🪛
+vu: voodoo (GTA SA)
 vw: vow - incense (nhang)
 vx: vex (Minecraft)
 
 wa: magic wand 🪄
 wb: web 🕸️
 wd: wood 🪵
-we: well 🧱
+we: well 🕳️
 wf: wolf 🐺
-wg: wage 💵 | wing
-wh: wheel 🛞
+wg: wagon 🐎🛞 | wage
+wh: wheel
 wi: window 🪟
 wk: wrecking ball 💣
 wl: whale 🐳

@@ -63,8 +63,8 @@ def load_progress():
         print("Could not load progress...")
     return False
 
-g_database = read_data()  # data = { "ab": "...", "ac": "...", ... }
-if not load_progress():
+def new_progress():
+    global g_batch_number, g_batch_size, g_to_reviews, g_batches, g_batch
     # batch size
     input_batch_size = input(
         "Input the batch size for reviewing (default: " + str(g_batch_size) + "): ")
@@ -76,6 +76,10 @@ if not load_progress():
     g_batch_number = 1
     g_batch = g_batches[g_batch_number - 1]
     print(f"Begin training batch {g_batch_number}/{len(g_batches)}...")
+
+g_database = read_data()  # data = { "ab": "...", "ac": "...", ... }
+if not load_progress():
+    new_progress()
 
 while True:
     # choose and print question
@@ -110,6 +114,9 @@ while True:
             continue
     elif option in ['l', 'load']:
         load_progress()
+        continue
+    elif option in ['n', 'new']:
+        new_progress()
         continue
     elif option in ['q', 'quit']:
         break
