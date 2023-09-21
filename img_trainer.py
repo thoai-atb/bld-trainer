@@ -4,7 +4,7 @@ import subprocess
 import json
 from pathlib import Path
 
-file_path = Path(__file__).with_name('letter_pairs.txt')
+file_path = Path(__file__).with_name('letter_images.txt')
 progress_path = Path(__file__).with_name('progress.json')
 
 # global variables

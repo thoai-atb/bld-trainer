@@ -131,7 +131,7 @@ hl: crowbar (half-life)
 hn: honey jar
 ho: a hole ⛳
 hp: heart in games ♥️
-hq: headquarters (IGI)
+hq: Korean's flag circle 🔴
 hr: hare 🐇
 hs: history book 📕
 ht: baseball bat (to hit)

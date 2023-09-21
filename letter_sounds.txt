@@ -1,4 +1,4 @@
-[Vowels]
+[VOWELS]
 a: a
 b: áp
 c: ác
@@ -20,7 +20,7 @@ r: o
 s: és
 t: ít
 u: u
-v: if
+v: ia
 w: ao
 x: ịch
 
