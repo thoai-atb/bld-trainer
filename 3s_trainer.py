@@ -96,7 +96,7 @@ def train(title, comms, types, color1, color2, correction_path):
                 comm = f"{correction_db[prompt]} (corrected)"
             print(f"{color1}{types[prompt]}:{color2} {comm}{Color.OFF}")
         else:
-            print(f"Sorry, did not find juice{prompt}juice in database")
+            print(f"Sorry, did not find {color1}{prompt}{Color.OFF} in database")
 
 while True:
     option = input("Select training option:\n(1) Corners\n(2) Edges\n-> ")
