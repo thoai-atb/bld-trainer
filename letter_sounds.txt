@@ -1,7 +1,7 @@
 [VOWELS]
 a: a
-b: áp
-c: ác
+b: óp
+c: óc | ác
 d: út
 e: e
 f: ép
@@ -14,7 +14,7 @@ l: eo
 m: om
 n: en
 o: ô
-p: úp
+p: íp | úp
 q: iu
 r: o
 s: és
@@ -27,7 +27,7 @@ x: ịch
 [CONSONANTS]
 a: a
 b: b
-c: c
+c: k
 d: d
 e: e
 f: ph
@@ -35,7 +35,7 @@ g: g
 h: h
 i: i
 j: dj
-k: kh
+k: k
 l: l
 m: m
 n: n
@@ -43,7 +43,7 @@ o: o
 p: p
 q: kw
 r: r
-s: sh
+s: s
 t: t
 u: u
 v: v

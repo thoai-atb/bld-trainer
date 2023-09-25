@@ -1,6 +1,6 @@
 ab: abs | ABC | 🧮
 ad: popup ads
-ae: daemon
+ae: daemon 😈 (1st twist)
 af: a flag (white) 🏳️
 ag: Agifish company sign
 ah: Ace of heart 💖
@@ -9,9 +9,9 @@ ak: ak47
 al: alien 👽
 an: an ant 🐜
 ao: ao | shirt 👚
-ap: appocalypse
+ap: appocalypse (RA2)
 aq: aquarium | aquafina
-ar: pirate's hook 🪝
+ar: pirate's hook 🪝 (2nd twist)
 as: ánh sáng 🔦
 at: ATM card 💳
 au: gold 🥇
@@ -28,13 +28,13 @@ bh: bo'oh'o'wa'er 🍼
 bi: marble
 bk: bikini 👙 | Bách Khoa
 bl: ball ⚽
-bn: banana 🍌 | recycle bin
+bn: banana 🍌 (2nd twist)
 bo: bowling ball | a bowl
 bp: bubbles 🫧
 bq: BBQ (grill)
 br: beer 🍺
 bs: a bass guitar 🎸
-bt: bít tết | Bitcoin
+bt: bít tết
 bu: bus 🚌
 bv: beaver 🦫
 bw: bow 🏹
@@ -43,10 +43,10 @@ bx: box 📦
 da: dart 🎯
 db: database
 de: desk 🪑
-df: defuse card
+df: defuse card (2nd twist)
 dg: dog 🐕
 dh: dish
-di: dice 🎲
+di: dice 🎲 (1st twist)
 dk: deck (of cards)
 dl: dollar 💵
 dn: deer
@@ -56,13 +56,13 @@ dq: dracula 🦇
 dr: doctor 🩺
 ds: disney 🐭
 dt: dirt 💩
-du: durian
+du: durian | dugeon
 dv: dvd 📀
 dw: down arrow (red)
 dx: duct tape
 
 eb: elbow 💪
-ed: ted-talk stage
+ed: ted-talk
 ef: effect (visual particles GTA)
 eg: egg 🥚
 eh: joker in Plants vs Zombies
@@ -240,7 +240,7 @@ ox: oxygen tank | ox 🐂
 pa: parachute 🪂
 pb: lead
 pd: lily pad
-pe: peashooter 🟢 | pocket (edition) (Minecraft)
+pe: pea 🟢
 pf: puffer fish 🐡
 pg: pogo stick
 ph: photo 📷
@@ -269,7 +269,7 @@ ql: quill 🪶
 qo: quote | quora
 qp: 🧹quét phòng
 qr: QR code
-qs: question mark ❓
+qs: question mark ❓ - Soos (Gravity Falls)
 qt: QT robot 🤖
 qu: quần - pants 👖
 qv: quay vòng (merry go round)
