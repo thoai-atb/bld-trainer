@@ -31,7 +31,7 @@ bl: ball ⚽
 bn: banana 🍌 (2nd twist)
 bo: bowling ball | a bowl
 bp: bubbles 🫧
-bq: BBQ (grill)
+bq: BBQ (grill) (1st twist)
 br: beer 🍺
 bs: a bass guitar 🎸
 bt: bít tết
@@ -81,7 +81,7 @@ ew: stew 🍲
 ex: explosion 💥 | exo planet
 
 fa: fat - cooking oil
-fb: Facebook
+fb: fish bowl | Facebook
 fe: coffee ☕
 fg: fog 🌫️
 fh: fish 🐟
@@ -232,7 +232,7 @@ op: octopus 🐙
 oq: nut 🥜
 or: cocacola (original taste 🍷)
 os: oscillation 🕰️
-ot: ô tô 🚗
+ot: ô tô 🚗 - red
 ou: outlet 🔌
 ov: oval - american football
 ox: oxygen tank | ox 🐂

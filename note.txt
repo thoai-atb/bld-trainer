@@ -1,0 +1,4 @@
+[3 style corner]:
+B with (F, R, I): setup R2 for D layer interchange C & B
+D with (R, E, (probably N?)):  setup U' R2 for D layer interchange C & D
+R U R' U': setup deal with K: K to U and U to P (for D layer interchange)
