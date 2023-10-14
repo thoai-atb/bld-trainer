@@ -1,8 +1,9 @@
+aa: apple 🍎
 ab: abs | ABC | 🧮
-ad: popup ads
-ae: daemon 😈 (1st twist)
+ad: áo dài
+ae: a sheep (baee) 🐑 | daemon 😈 (1st twist)
 af: a flag (white) 🏳️
-ag: Agifish company sign
+ag: combine harvester - An Giang
 ah: Ace of heart 💖
 ai: ChatGPT's logo
 ak: ak47
@@ -20,6 +21,7 @@ aw: paw 🐾
 ax: axe 🪓
 
 ba: barcode | baba 🐢
+bb: bell 🔔
 bd: bed 🛏️
 be: bee 🐝 | black eagle (RA2)
 bf: buffalo 🐃 | battle fortress (RA2)
@@ -42,6 +44,7 @@ bx: box 📦
 
 da: dart 🎯
 db: database
+dd: drum 🥁
 de: desk 🪑
 df: defuse card (2nd twist)
 dg: dog 🐕
@@ -49,7 +52,7 @@ dh: dish
 di: dice 🎲 (1st twist)
 dk: deck (of cards)
 dl: dollar 💵
-dn: deer
+dn: deer 🦌
 do: donut 🍩 | door
 dp: dip sauce | dipper (Gravity Falls)
 dq: dracula 🦇
@@ -63,6 +66,7 @@ dx: duct tape
 
 eb: elbow 💪
 ed: ted-talk
+ee: eagle 🦅
 ef: effect (visual particles GTA)
 eg: egg 🥚
 eh: joker in Plants vs Zombies
@@ -83,6 +87,7 @@ ex: explosion 💥 | exo planet
 fa: fat - cooking oil
 fb: fish bowl | Facebook
 fe: coffee ☕
+ff: frog
 fg: fog 🌫️
 fh: fish 🐟
 fk: fork 🍴
@@ -104,6 +109,7 @@ gb: grab bike 🪖
 gd: god 😶‍🌫️
 ge: gem ♦️
 gf: gift 🎁
+gg: guitar 🎸
 gh: ghast (Minecraft)
 gi: GI (RA2)
 gk: gecko 🦎
@@ -125,6 +131,7 @@ hd: honda
 he: helmet | head 🤕
 hf: headphone 🎧
 hg: hedgehog 🦔
+hh: helicopter 🚁
 hi: hiking | hill
 hk: hockey 🏒
 hl: crowbar (half-life)
@@ -144,11 +151,12 @@ ib: inbox (notification)
 ie: ice 🧊
 ig: igloo
 ih: đinh - nails (used with hammer)
+ii: icecream
 ik: ink ✒️
 il: illumati 👁️
 in: internet 🌐
 io: iot - salt shaker 🧂
-ip: 10.139.160.9
+ip: magnifying glass 🔎 - 10.139.160.9
 iq: brain 🧠
 ir: iron (used to iron clothes)
 is: isabella (Phineas & Ferb)
@@ -166,6 +174,7 @@ kf: knife 🔪
 kg: weight ⚖️
 kh: pineapple 🍍
 ki: kite 🪁
+kk: kangaroo 🦘
 kl: kool air (gum)
 kn: knight 🐴
 ko: knot 🎀
@@ -187,6 +196,7 @@ lg: lego 🧩
 lh: leech
 li: lichess♟️
 lk: luck 🍀
+ll: lamp
 ln: lantern 🔥
 lo: lock 🔓
 lp: lipstick 💄 | tulip 🌷
@@ -207,6 +217,7 @@ nh: house (nhà) 🏠
 ni: ninja 🥷
 nk: neko 🐈
 nl: finger nail 💅
+nn: net (to catch bugs)
 no: no sign 🚫
 np: napkin 🧷
 nr: nuclear reactor (RA2)
@@ -228,6 +239,7 @@ oi: trái ổi 🍏
 ok: 👌 | 200 OK
 ol: oil 🛢️
 on: onion 🧅
+oo: float 🛟
 op: octopus 🐙
 oq: nut 🥜
 or: cocacola (original taste 🍷)
@@ -237,7 +249,7 @@ ou: outlet 🔌
 ov: oval - american football
 ox: oxygen tank | ox 🐂
 
-pa: parachute 🪂
+pa: parachute 🪂 | parrot 🦜
 pb: lead
 pd: lily pad
 pe: pea 🟢
@@ -249,6 +261,7 @@ pk: pikachu
 pl: plum
 pn: pin 📌 | pan 🍳
 po: potato 🥔
+pp: pen 🖋️
 pq: penguin 🐧
 pr: printer 🖨️
 ps: toothpaste 🦷
@@ -266,8 +279,9 @@ qh: quỳnh hương 💐
 qi: cookies 🍪
 qk: duck (quack) 🐤
 ql: quill 🪶
-qo: quote | quora
+qo: a mug - a cup
 qp: 🧹quét phòng
+qq: cooked quail
 qr: QR code
 qs: question mark ❓ - Soos (Gravity Falls)
 qt: QT robot 🤖
@@ -288,6 +302,7 @@ rn: rain 🌧️
 ro: rock
 rp: rope 🪢
 rq: raquet 🎾
+rr: rainbow 🌈
 rs: rose 🌹
 rt: robot tank (RA2)
 ru: rubik | rusty rod
@@ -301,7 +316,7 @@ sd: silenced gun
 se: seashell 🐚
 sf: surf 🏄
 sg: shotgun
-sh: SH (white) bike
+sh: shrimp 🦐 | SH (white) bike
 si: sing 🎤
 sk: sky 🌥️
 sl: SEAL (RA2)
@@ -310,6 +325,7 @@ so: sock 🧦
 sp: spoon 🥄
 sq: squash
 sr: syrup 🍧
+ss: sausage 🌭
 st: start line 🏁
 su: shoe 👟
 sv: savory 👅
@@ -331,12 +347,13 @@ tp: teleport (Portal)
 tq: Chinese letters
 tr: bamboo tree 🎍
 ts: tissue
+tt: Christian cross ✝️
 tu: tủ
 tv: TV 📺
 tx: taxi 🚕 | text
 
 ua: yogurt
-ub: uber (black taxi)
+ub: uber pool
 ud: udon (white noodles) | under dog
 ue: UE device 📱
 uf: ufo 🛸
@@ -350,6 +367,7 @@ uq: dùi cui
 ur: uranium ☢️
 us: among us
 ut: youtube
+uu: umbrealla ☂️
 uv: ultraviolet light
 uw: UwU face
 ux: someone wears luxuries | tuxedo
@@ -370,6 +388,7 @@ vr: VR headset
 vs: vase ⚱️
 vt: tua vít 🪛
 vu: voodoo (GTA SA)
+vv: funnel V
 vw: vow - incense (nhang)
 vx: vex (Minecraft)
 
@@ -390,6 +409,7 @@ wr: warehouse (RA2)
 ws: whistle 😮‍💨
 wu: Wu-zi-mu (GTA SA)
 wv: wave 👋 | wave 🌊
+ww: watch
 wx: wax
 
 xa: cây xã
@@ -410,3 +430,4 @@ xt: piston
 xu: đồng xu 🪙
 xv: savana
 xw: swan 🦢
+xx: X-ray
